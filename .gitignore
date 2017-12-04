@@ -1,6 +1,7 @@
-# IGNORE EXES
+# IGNORE build stuff
 *.exe
 *.out
+*.o
 
 
 # IGNORE VIM-SPECIFIC FILES ----------------------------------------------------
