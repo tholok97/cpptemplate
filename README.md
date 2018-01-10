@@ -13,4 +13,4 @@
 
 ## Dependencies
 
-* g++ is used as the compiler. If you prefer something else this could easily be achieved by changing the CC variable in the makefile.
+* g++ is used as the compiler. If you prefer something else this can easily be achieved by changing the CC variable in the makefile.
