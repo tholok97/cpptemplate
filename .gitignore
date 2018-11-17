@@ -1,6 +1,10 @@
+# NOTE: I use this .gitignore as a starting point for new projects.Because of 
+#       this, the ignores might not all be relevant to the current project
+
 # Ignore temp directories
 bin/*
 build/*
+vendor/
 
 # Ignore any build-files still roaming around
 *.exe
